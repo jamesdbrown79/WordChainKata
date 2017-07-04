@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChainKata", "WordChainKata\WordChainKata.csproj", "{3AFA8DF6-14D5-4B1A-B131-69F41BA331F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChainKataTests", "WordChainKataTests\WordChainKataTests.csproj", "{DABD529B-2DD3-4A35-A9EF-8BE90DD4F9CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3AFA8DF6-14D5-4B1A-B131-69F41BA331F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AFA8DF6-14D5-4B1A-B131-69F41BA331F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AFA8DF6-14D5-4B1A-B131-69F41BA331F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABD529B-2DD3-4A35-A9EF-8BE90DD4F9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABD529B-2DD3-4A35-A9EF-8BE90DD4F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABD529B-2DD3-4A35-A9EF-8BE90DD4F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABD529B-2DD3-4A35-A9EF-8BE90DD4F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
